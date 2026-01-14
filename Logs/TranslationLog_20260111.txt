@@ -1,0 +1,11 @@
+﻿[2026-01-11 00:20:53] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:21:08] [Info] Translation completed successfully: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test_translated_ro.tex
+[2026-01-11 00:21:49] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:26:51] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:29:58] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:31:42] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:33:49] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:35:51] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:38:52] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:40:47] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro
+[2026-01-11 00:40:57] [Info] Translation completed successfully: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test_translated_ro.tex

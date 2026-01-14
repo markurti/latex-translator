@@ -1,0 +1,18 @@
+# UiPath system folders
+.nuget/
+.packages/
+.project/
+.settings/
+.vs/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# User-specific UiPath files
+*.user

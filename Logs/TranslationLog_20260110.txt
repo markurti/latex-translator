@@ -1,0 +1,1 @@
+﻿[2026-01-10 22:42:14] [Info] User inputs - File: C:\Users\Mark\OneDrive\Documents\Year-2-CS\test.tex, From: en To: ro

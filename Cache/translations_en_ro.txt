@@ -1,0 +1,10 @@
+﻿0b79795d3efc95b9976c7c5b933afce2|Introducere
+29d5db0cf868ace1f9e7ab66c6824044|Acesta este un simplu articol de test pentru traducere.
+a9ded1e5ce5d75814730bb4caaf49419|Context
+b716217356733ec22530a98a7f4ebd74|Inteligența artificială ne transformă lumea.
+4eeea2d457f0c86317a3da10db9f7fe1|Algoritmii de învățare automată pot învăța din date.
+dc361f2003024eb4050192a46627664e|Formula matematică
+26d55d186c9f72c5703a7a9cbbc765f5|Formula pătratică este:
+dc64ef846c33e9959f16a41628e37137|Această formulă nu trebuie tradusă.
+6f8b794f3246b0c1e1780bb4d4d5dc53|Concluzie
+81ad4ef2604ce50768c2a5e0e089cf41|Acest proiect demonstrează traducerea automată a documentelor LaTeX, păstrând structura și formatarea.
